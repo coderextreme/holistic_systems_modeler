@@ -1,0 +1,5 @@
+{
+  "name": "Holistic System Modeler",
+  "description": "A conceptual demonstrator for a 3D/4D integrated development environment to model, visualize, and configure complex systems across various domains. This proof-of-concept showcases interconnected data as a dynamic, interactive 3D graph, touching upon concepts of data science, 3D modeling, and system architecture.",
+  "requestFramePermissions": []
+}
